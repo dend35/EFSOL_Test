@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="208fc49b-ca12-401e-a69a-8c26b0b41ab9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Test/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Test/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1i09K5yQ13QvvTDqweDPiz3Pzzq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Test">
@@ -34,5 +70,85 @@
         <option name="Build" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="208fc49b-ca12-401e-a69a-8c26b0b41ab9" name="Default Changelist" comment="" />
+      <created>1601033575512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601033575512</updated>
+      <workItem from="1601033586576" duration="285000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1601033609201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601033609201</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init">
+      <created>1601033688191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601033688191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="423" key="Github.ShareDialog" timestamp="1601033705912">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="836" y="423" key="Github.ShareDialog/1920.112.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601033705912" />
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom" timestamp="1601033797021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom/1920.112.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601033797021" />
+    <state width="1877" height="378" key="GridCell.Tab.0.center" timestamp="1601033797021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.center/1920.112.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601033797021" />
+    <state width="1877" height="378" key="GridCell.Tab.0.left" timestamp="1601033797020">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.left/1920.112.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601033797020" />
+    <state width="1877" height="378" key="GridCell.Tab.0.right" timestamp="1601033797021">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="378" key="GridCell.Tab.0.right/1920.112.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601033797021" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1601033918063">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/1920.112.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601033918063" />
+    <state x="552" y="245" key="Vcs.Push.Dialog.v2" timestamp="1601033622570">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="245" key="Vcs.Push.Dialog.v2/1920.112.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1601033622570" />
   </component>
 </project>
