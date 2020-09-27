@@ -4,6 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Test.Context;
+using Test.Enum;
+using Test.Model;
+using AppContext = Test.Context.AppContext;
 
 namespace Test.Controllers
 {
@@ -26,6 +30,17 @@ namespace Test.Controllers
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
+            var db = new AppContext();
+            db.UserData.Add(new UserData()
+            {
+                Name = "Test",
+                Age = 15,
+                Coder = true,
+                BirthDate = DateTime.Now,
+                Gender = Gender.Male,
+                MaritalStatus = MaritalStatus.ILoveCoding
+            });
+            db.SaveChanges();
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
                 {
